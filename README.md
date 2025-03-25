@@ -12,6 +12,6 @@ This is a simple **2-page portfolio website** built using **HTML and CSS**.
 - Easy navigation between pages.
 
 ## 🔗 Live Demo
-[View My Portfolio]() *(Replace with actual URL after deployment)*
+[View My Portfolio](https://sathiyanarayanan53.github.io/Portfolio-FirstWeb/) *(Replace with actual URL after deployment)*
 
 ## 📂 Folder Structure
